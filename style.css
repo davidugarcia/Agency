@@ -1,0 +1,28 @@
+/* Nav */
+.navbar-brand {
+    color: #3a2d2d !important;
+}
+
+.navbar-nav>li>a {
+    color: #000 !important;
+}
+
+.navbar-nav>li>a:hover{
+    color: #777 !important;
+}
+
+.button_nav {
+    margin: 7px;
+    padding: 5px 14px;
+    border: 1px;
+    color: black;
+    border: 2px solid #8a2be2;
+    border-radius: 17px;
+}
+
+.button_nav:hover{
+   color: white;
+   background-color: blueviolet;
+}
+
+/* Banner */
