@@ -22,7 +22,6 @@
 .button_nav {
     margin: 7px;
     padding: 5px 14px;
-    border: 1px;
     color: black;
     border: 2px solid #8a2be2;
     border-radius: 17px;
@@ -128,3 +127,23 @@
 .link a{
     color: white;
 }
+
+/* Section */
+
+.div_space {
+    margin: 70px 0px;
+}
+
+.center {
+    padding: 130px 0px;
+    margin-left: 60px;
+    width: 340px;
+}
+
+.button_section {
+    padding: 14px 24px;
+    color: black;
+    border: 2px solid #8a2be2;
+    border-radius: 17px;
+}
+
