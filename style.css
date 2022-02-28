@@ -68,3 +68,63 @@
     box-shadow: 0 4px 8px 0 rgb(255 253 253 / 20%), 0 6px 20px 0 rgb(68 68 68);
     background-image: linear-gradient(to right, #a005ed , #a897dd);
 }
+
+.fondo {
+    background-color: #302a5d;
+}
+
+.text_info {
+   margin: 40px 0px 40px 50px;
+   padding: 15px;
+   color: white;
+}
+
+.text_info h1{
+    font-size: 50px;
+}
+
+.btn-primary {
+    background-color: transparent;
+    border: 2px solid #8a2be2;
+    border-radius: 17px;
+}
+
+/* Informacion */
+
+.btn-primary:hover {
+    color: #fff;
+    background-image: linear-gradient(to right, #a005ed , #a897dd);
+    border-color: #8a2be2;
+}
+
+.card {
+    background-color: #2b2353;
+    margin: 40px auto;
+    padding: 15px;
+    border-radius: 10px;
+    width: 350px;
+    color: white;
+}
+
+.card i {
+    font-size: 35px;
+    color: #c976f3;
+}
+
+.card_info {
+    background-image: linear-gradient(to right, #a005ed , #a897dd);
+    margin: 40px auto;
+    padding: 1px 15px;
+    border-radius: 10px;
+    width: 350px;
+    height: 179px;
+    color: white;
+}
+
+.card_info .link {
+    margin-top: 30px;
+}
+
+.link a{
+    color: white;
+}
