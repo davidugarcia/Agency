@@ -36,7 +36,7 @@
 
 .text_banner {
     margin: 60px auto 0px auto;
-    width: 385px;
+    width: 400px;
 }
 
 .text_banner h1{
@@ -54,7 +54,7 @@
 
 .text_banner h5 {
     display: inline;
-    margin: 0px 30px;
+    margin: 0px 45px;
 }
 
 .play_banner {
@@ -68,27 +68,27 @@
     background-image: linear-gradient(to right, #a005ed , #a897dd);
 }
 
+/* Informacion */
+
 .fondo {
     background-color: #302a5d;
 }
 
 .text_info {
-   margin: 40px 0px 0px 0px;
-   padding: 15px;
-   color: white;
+    margin: 84px 0px 0px 0px;
+    padding: 15px;
+    color: white;
 }
-
+ 
 .text_info h1{
     font-size: 50px;
 }
-
+ 
 .btn-primary {
     background-color: transparent;
     border: 2px solid #8a2be2;
     border-radius: 17px;
 }
-
-/* Informacion */
 
 .btn-primary:hover {
     color: #fff;
@@ -96,9 +96,13 @@
     border-color: #8a2be2;
 }
 
+.section_card {
+    margin: 84px 0px 84px 0px;
+}
+
 .card {
     background-color: #2b2353;
-    margin: 40px auto;
+    margin: 14px auto;
     padding: 15px;
     border-radius: 10px;
     width: 350px;
@@ -112,7 +116,7 @@
 
 .card_info {
     background-image: linear-gradient(to right, #a005ed , #a897dd);
-    margin: 40px auto;
+    margin: 14px auto;
     padding: 1px 15px;
     border-radius: 10px;
     width: 350px;
@@ -131,7 +135,8 @@
 /* Section */
 
 .div_space {
-    margin: 30px 0px;
+    margin-top: 45px;
+    margin-bottom: 45px;
 }
 
 .div_space img {
@@ -141,13 +146,12 @@
 
 .center {
     padding: 60px 0px;
-    margin-left: 10px;
+    margin-left: 70px;
     width: 340px;
 }
 
 .center1 {
-    padding: 100px 0px;
-    margin-left: 10px;
+    margin: 190px 0px 0px 100px;
     width: 340px;
 }
 
